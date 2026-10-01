@@ -1,3 +1,19 @@
+## 2026-09-01 - Week 0: Toolchain, CMake skeleton, first PR with code
+**What I did:**
+- Wrote CMakeLists.txt with simple main.cpp
+- built it and ran it
+**Why:**
+- Every thing on this project builds on this skeleton and file that i created
+- Has to work with simple stuff so when we expand it will work
+**What broke / what surprised me:**
+- N/A
+**What I learned:**
+- C++ complies in steps, paste in headers, compile each file, link them together
+**New terms:**
+**Next step:**
+- Add CI so GitHub builds every PR
+- Turn on branch protection
+
 ## 2026-09-27 — ThinkPad environment setup for uav-trackloop
 
 **What I did:** 
